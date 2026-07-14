@@ -13,7 +13,8 @@
     <packaging>pom</packaging>
 
     <modules>
-
+        <module>course-management-producer</module>
+        <module>course-management-consumer</module>
     </modules>
 
     <properties>
